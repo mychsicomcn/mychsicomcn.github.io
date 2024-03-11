@@ -10,19 +10,7 @@
   line-height:normal;
   text-transform:none;
 }
-.box_1 {
-}
-.box_3 {
-}
 ._图片_ {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -68,15 +56,20 @@
 ._文本段落 {
   text-align:left;
 }
-.line {
+.text_field {
+  color:#000000;
+  text-align:left;
 }
-.arrow {
+._流程形状 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
-}
-._流程形状 {
 }
 textarea, select, input, button { outline: none; }
