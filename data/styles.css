@@ -72,4 +72,6 @@
 }
 ._表单禁用 {
 }
+.flow_shape {
+}
 textarea, select, input, button { outline: none; }

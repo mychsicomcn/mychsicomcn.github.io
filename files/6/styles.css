@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:414px;
+  width:828px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,53 +16,93 @@
   position:absolute;
   z-index:0;
 }
-#u17_img {
+#u23_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:414px;
-  height:714px;
+  width:828px;
+  height:1297px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
-#u17 {
+#u23 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:414px;
-  height:714px;
+  width:828px;
+  height:1297px;
   display:flex;
 }
-#u17 .text {
+#u23 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u17_text {
+#u23_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u18 {
+#u24_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
-  height:49px;
+  width:828px;
+  height:1428px;
+}
+#u24 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:828px;
+  height:1428px;
+  display:flex;
+}
+#u24 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u24_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u25 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:96px;
+  height:98px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
-#u19 {
+#u26 {
   border-width:0px;
   position:absolute;
-  left:24px;
-  top:577px;
-  width:366px;
-  height:53px;
+  left:48px;
+  top:1154px;
+  width:732px;
+  height:106px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
